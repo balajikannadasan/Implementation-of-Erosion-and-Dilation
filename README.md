@@ -20,7 +20,11 @@ Erode and Dilate the image using cv2.erode() and cv2.dilate()
 ### Step5:
 Run the program and execute the outputs.
 
- 
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ## Program:
 ```
 Program developed by : K.Balaji
